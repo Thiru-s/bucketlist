@@ -1,0 +1,78 @@
+{
+  "hi_guys": "Hi guys",
+  "from_livdev": "From LivDev",
+  "please_subscribe": "Please, Subscribe",
+
+  "email_text" : "Email",
+  "password_text" : "Password",
+  "remember_me" : "Remember me",
+  "forgot_pw" : "Forgot the password?",
+  "login_text" : "Login",
+  "dont_have_account" : "Don't have an account?",
+  "sign_up_caps" : "SIGN UP",
+  "be_a_client" : "Become a Client",
+
+
+
+  "login_caps" : "LOG IN",
+  "already_have_account" : "Already have an account? ",
+  "sign_up_text" : "Sign Up",
+  "do_have_referral" : "Do you have any Referral",
+  "re_enter_pw" : "Re-enter Password",
+  "phone_text" : "Phone Number",
+  "position_at_company" : "Position at company",
+  "company_name" : "Company Name",
+  "name_text": "Name",
+  "contact_name_text": "Contact Name",
+
+  "pl_enter_pw" : "Please enter Password",
+  "pl_enter_confirm_pw" : "Please enter Confirm Password",
+  "pw_should_match" : "Password and confirm password should match",
+  "ps_error_msg" : "Password should be between 8 to 16 characters and should include 1 Uppercase, 1 Lowercase, 1 Number and 1 Special Character",
+   "pw_not_match" : "Password didn't matched",
+
+  "pl_enter_email" : "Please enter Email",
+   "invalid_email" : "Invalid Email",
+  "pl_enter_phone" : "Please enter Phone Number",
+   "invalid_phone" : "Invalid Phone Number",
+   "max_phone_er_msg" : "Phone Number must be at least 16 digits",
+
+
+   "verification_text" : "Verification",
+   "pls_enter_code" : "Please Enter The Code We Sent To Your Email" ,
+    "dont_receive_code" : "Didn’t Receive the Code?" ,
+   "resend_code" : "Resend Code" ,
+  "second_text" : " Seconds" ,
+  "verify_text" : "Verify",
+   "pl_enter_verification_code" : "Please enter Verification Code",
+
+   "pl_enter_your_name" : "Please enter your Name",
+   "pl_enter_your_name_or_phone" : "Please Enter Your Email or Phone Number",
+   "pl_enter_your_email" : "Please Enter Your Email",
+   "send_otp" : "Send OTP",
+
+    "update_pw" : "Update Password",
+     "pls_crete_new_pw" : "Please Create Your New Password" ,
+     "new_pw" : "New Password" ,
+     "confirm_pw" : "Confirm Password" ,
+    "continue_text" : "Continue",
+  "pl_enter": "Please enter {field}",
+ "pl_enter_text": "Please enter",
+  "pw_update_success" : "Your password has been updated successfully",
+
+  "user_login_success" : "User logged in successfully",
+  "account_verify_success" : "Your account has been verified successfully",
+  "dscx": "gfdvsc",
+
+
+  "address_txt" : "Address",
+  "job_title_txt": "Job Title",
+  "city_state_zip_txt": "City/State/ZIP",
+  "website_txt": "Website",
+  "company_info_text": "Company Information",
+  "next_txt": "Next",
+  "save_txt": "Save",
+  "send_txt": "Send",
+  "pl_re_enter_pw" : "Please re-enter Password",
+  "pw_re_enter_should_match" : "Password and re-entered password should match"
+}

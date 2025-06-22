@@ -1,0 +1,76 @@
+{
+  "hi_guys": "Hola chicos",
+  "from_livdev": "de LivDev",
+  "please_subscribe": "Por favor, suscríbete",
+
+  "email_text": "Correo electrónico",
+  "password_text": "Contraseña",
+  "remember_me": "Recuérdame",
+  "forgot_pw": "¿Olvidaste la contraseña?",
+  "login_text": "Iniciar sesión",
+  "dont_have_account": "¿No tienes una cuenta?",
+  "sign_up_caps": "REGÍSTRATE",
+  "be_a_client": "Conviértete en cliente",
+
+  "login_caps": "INICIAR SESIÓN",
+  "already_have_account": "¿Ya tienes una cuenta? ",
+  "sign_up_text": "Registrarse",
+  "do_have_referral": "¿Tienes alguna referencia?",
+  "re_enter_pw": "Reingresar la contraseña",
+  "phone_text": "Teléfono",
+  "position_at_company": "Puesto en la empresa",
+  "company_name": "Nombre de la empresa",
+  "name_text": "Nombre",
+  "contact_name_text": "Contact Name",
+
+  "pl_enter_pw": "Por favor ingrese la contraseña",
+  "ps_error_msg": "La contraseña debe tener entre 8 y 16 caracteres e incluir 1 mayúscula, 1 minúscula, 1 número y 1 carácter especial",
+  "pw_not_match": "La contraseña no coincide",
+
+  "pl_enter_email": "Por favor ingrese el correo electrónico",
+  "invalid_email": "Correo electrónico inválido",
+  "pl_enter_phone": "Por favor ingrese el número de teléfono",
+  "invalid_phone": "Número de teléfono inválido",
+  "max_phone_er_msg": "El número de teléfono debe tener al menos 16 dígitos",
+
+  "verification_text": "Verificación",
+  "pls_enter_code": "Por favor, ingrese el código que enviamos a su correo electrónico",
+  "dont_receive_code": "¿No recibió el código?",
+  "resend_code": "Reenviar código",
+  "second_text": " Segundos",
+  "verify_text": "Verificar",
+  "pl_enter_verification_code": "Por favor, ingrese el código de verificación",
+
+
+  "pl_enter_your_name": "Por favor, ingrese su nombre",
+  "pl_enter_your_name_or_phone" : "Please Enter Your Email or Phone Number",
+  "send_otp": "Enviar OTP",
+
+  "update_pw" : "Actualizar Contraseña",
+  "pls_crete_new_pw" : "Por favor, crea tu nueva contraseña",
+  "new_pw" : "Nueva Contraseña",
+  "confirm_pw" : "Confirmar Contraseña",
+  "continue_text" : "Continuar",
+  "pl_enter": "Por favor ingrese {field}",
+  "pl_enter_text": "Por favor ingrese",
+  "pw_update_success": "Tu contraseña ha sido actualizada con éxito",
+  "user_login_success" : "Usuario ha iniciado sesión con éxito",
+  "account_verify_success" : "Tu cuenta ha sido verificada con éxito",
+  "dscx": "gfdvsc",
+
+
+
+  "address_txt" : "Address",
+  "job_title_txt": "Job Title",
+  "city_state_zip_txt": "City/State/ZIP",
+  "website_txt": "Website",
+  "company_info_text": "Company Information",
+  "next_txt": "Next",
+  "save_txt": "Save",
+  "send_txt": "Send",
+  "pl_enter_your_email" : "Please Enter Your Email",
+  "pl_enter_confirm_pw" : "Please enter Confirm Password",
+  "pw_should_match" : "Password and confirm password should match",
+  "pl_re_enter_pw" : "Please re-enter Password",
+  "pw_re_enter_should_match" : "Password and re-entered password should match"
+}
